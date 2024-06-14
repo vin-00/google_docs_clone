@@ -11,7 +11,7 @@ This project is a clone of Google Docs built using React, Quill, and Socket.IO. 
 - Real-time collaborative editing
 - Rich text formatting
 - Multiple users can edit simultaneously
-- Document saving and loading (document get saved to the url with id , if user enters the same url , the saved document get loaded )
+- Document saving and loading (document get saved to the url with id in the mongodb-atlas cloud service , if user enters the same url , the saved document get loaded )
 
 ## Technologies Used
 
@@ -19,6 +19,7 @@ This project is a clone of Google Docs built using React, Quill, and Socket.IO. 
 - **Quill**: A rich text editor.
 - **Socket.IO**: A library for real-time web applications.
 - **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **MongoDB-Atlas**: A fully-managed cloud database service provided by MongoDB Inc.
 
 ## Contact
 
