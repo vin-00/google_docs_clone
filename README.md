@@ -1,6 +1,6 @@
 # Google_docs_clone
 
-![image](https://github.com/vin-00/google_docs_clone/assets/132657698/3e06f5b4-3105-48fd-a088-e204b9c7e117)
+![image](https://github.com/vin-00/google_docs_clone/assets/132657698/62ee2c72-8181-482d-9f07-be6542f55397)
 
 ## Overview
 
