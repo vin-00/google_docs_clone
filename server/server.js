@@ -3,7 +3,7 @@
 const mongoose = require('mongoose');
 
 const Document = require('./Document');
-mongoose.connect('mongodb+srv://winkhatri292004:HRiu5VW1ddKVMUuP@googledoc.afscsqa.mongodb.net/?retryWrites=true&w=majority&appName=googledoc')
+mongoose.connect(process.env.dbUrl);
 
 const io = require('socket.io')(3001,{
     cors: {
